@@ -23,5 +23,10 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  background-color: var(--color-primary);
+  font-size: 1.1rem;
+  color: var(--color-white);
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
 }
 /*# sourceMappingURL=main-styles.css.map */
